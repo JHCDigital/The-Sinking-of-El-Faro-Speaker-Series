@@ -37,7 +37,7 @@ Ten years have passed since October 1, 2015, still the memory of that day is dee
 	- Q462789
 	- Q3316289
 	- Q49233
-	- Q487988 "Mariette Wright"
+	- Q487988
  
 * Louis Champa Jr. Daytona Beach, Florida
 * Roosevelt Clark, Jacksonville, Florida
