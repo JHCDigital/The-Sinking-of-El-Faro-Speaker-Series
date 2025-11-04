@@ -18,8 +18,60 @@ The National Transportation Safety Board (NTSB) and the U.S. Coast Guard launche
 
 # Honoring the crew of the El Faro
 Ten years have passed since October 1, 2015, still the memory of that day is deeply felt by families, friends, and the entire maritime community. In El Faro's wake came a lasting change through improvements in safety, communication, and oversight. Their legacy run every vessel that sails safer because of them, in every mariner who remembers their story, and in every heart that still carries their names. 
-
-.ve-media gh:JHCDigital/The-Sinking-of-El-Faro-Speaker-Series/Screenshot%202025-10-21%20155130.png width=70% caption="Names of the El Faro crewmembers."
+## 33 Crew Members Aboard the El Faro
+.ve-map basemaps=OpenStreetMap,Esri_WorldPhysical,USGS_USTopo center= 0,-30,2 right
+    - Q16568 
+    - Q490595
+    - Q970174
+    - Q1628565
+	- Q506451
+	- Q367316
+	- Q3449404
+	- Q36
+	- Q18419
+	- Q988928
+	- Q2305766
+	- Q2078053
+	- Q49259
+	- Q754342
+	- Q462789
+	- Q3316289
+	- Q49233
+	- Q487988 "Mariette Wright"
+ 
+* Louis Champa Jr. Daytona Beach, Florida
+* Roosevelt Clark, Jacksonville, Florida
+* Sylvester Crawford Jr., Lawrenceville, Georgia
+* Michael Davidson, Windham, Maine
+* Larry Davis, Jacksonville, Florida
+* Keith Griffin, Fort Myers, Florida
+* Frank Hamm, Jacksonville, Florida
+* Joe Hargrove, Orange Park, Florida
+* Carey Hatch, Jacksonville, Florida
+* Michael Holland, North Wilton, Maine
+* Jack Jackson, Jacksonville, Florida
+* Jackie Jones Jr., Jacksonville, Florida
+* Lonnie Jordan, Jacksonville, Florida
+* Piotr Krause, Poland
+* Mitchell Kuflik, Brooklyn, New York
+* Roan Lightfoot, Jacksonville Beach, Florida
+* Jeffrey Mathias, Kingston, Massachusetts
+* Dylan Meklin, Rockland, Maine
+* Marcin Nita, Poland
+* Jan Podgorski, Poland
+* James Porter, Jacksonville, Florida
+* Richard Pusatere, Virginia Beach, Virginia
+* Theodore Quammie, Jacksonville, Florida
+* Danielle Rudolph, Rockland, Maine
+* Jeremie Riehm, Camden, Delaware
+* LaShawn Rivera, Jacksonville, Florida
+* Howard Schoenly, Cape Coral, Florida
+* Steven Shutz, Roan Mountain, Tennessee
+* German Solar-Cortes, Orlando, Florida
+* Anthony Thomas, Jacksonville, Florida
+* Andrzej Truszkowski, Poland
+* Mariette Wright, St. Augustine, Florida
+* Rafal Zdobych, Poland
 
 These names are recognized at the memorials placed in Dames Point Park, Jacksonville, Florida and STAR Center in Dania Beach, Florida for the El Faro crew members. The Jacksonville location features the "El Faro memorial" which centers a bronze lighthouse statue; a reference to the El Faro's name origin meaning "lighthouse". As well as 33 individual markers with a photo and nameplate for each of the lost crew mamebers. The Dames Point Park stands underneath the Dames Point Bridge, which faces the waters that the ship departed from, along the St. Johns River.[^3] The other memorial is in the heart of the STAR Center and displays the El Faro monument. The structure was unvieled September 29, 2018 and stands in a butterfly garden on the American Maritime Officers Plans campus. It was the focus of the 10 year anniversary memorial service AMO unions and stakeholders attend in remeberance of the El Faro on October 1, 2025.[^4]
 
@@ -46,7 +98,7 @@ Jacksonville has extensive ties to the maritime industry and that certainly refl
 .ve-media gh:JHCDigital/The-Sinking-of-El-Faro-Speaker-Series/archives%20exhibit_3.jpeg left width=70% caption="Model of the U.S.S. Constiution ship."
 
 # Event Reception
-The 10th anniversary of the El Faro 
+The 10th anniversary of the El Faro held by the Jacksonville History Center
 
 
 # Gallery
