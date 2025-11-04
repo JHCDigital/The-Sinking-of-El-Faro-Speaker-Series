@@ -98,7 +98,7 @@ Jacksonville has extensive ties to the maritime industry and that certainly refl
 .ve-media gh:JHCDigital/The-Sinking-of-El-Faro-Speaker-Series/archives%20exhibit_3.jpeg left width=70% caption="Model of the U.S.S. Constiution ship."
 
 # Event Reception
-The 10th anniversary of the El Faro held by the Jacksonville History Center
+The Jacksonville History Center was honored to host a 10th anniversary event of the El Faro. The event was attended by almost 100 people. Shawn Stermer, our Research Archivist, curated a twenty-four foot display of our collections focusing on the development of Jacksonville's maritime history. The exhibit was engaging and many visitors returned throughout the reception and after the presentation to learn more. Nancy Gandy, our Merrill House Coordinator, made everyone feel welcome with her warm smile and excellent selection and presentation of appetizers. Attendees appreicated Dr. Bliss' wide-ranging knowledge of maritime history and his experience as a captain, as well as his respectful and dignified treatment of those who lost their lives, and their surviving families. 
 
 
 # Gallery
