@@ -114,7 +114,7 @@ Jacksonville has extensive ties to the maritime industry and that certainly refl
 .ve-media gh:JHCDigital/The-Sinking-of-El-Faro-Speaker-Series/archives%20exhibit_3.jpeg right width=70% caption="Model of the U.S.S. Constiution ship."
 
 # Event Reception
-The Jacksonville History Center was honored to host a 10th anniversary event of the El Faro. The event was attended by almost 100 people. Shawn Stermer, our Research Archivist, curated a twenty-four foot display of our collections focusing on the development of Jacksonville's maritime history. The exhibit was engaging and many visitors returned throughout the reception and after the presentation to learn more. Nancy Gandy, our Merrill House Coordinator, made everyone feel welcome with her warm smile and excellent selection and presentation of appetizers. Attendees appreciated Dr. Bliss' wide-ranging knowledge of maritime history and his experience as a captain, as well as his respectful and dignified treatment of those who lost their lives, and their surviving families. 
+The Jacksonville History Center was honored to host a 10th anniversary event of the El Faro. The event was attended by almost 100 people. Shawn Stermer, our Research Archivist, curated a twenty-four-foot display of our collections focusing on the development of Jacksonville's maritime history. The exhibit was engaging and many visitors returned throughout the reception and after the presentation to learn more. Nancy Gandy, our Merrill House Coordinator, made everyone feel welcome with her warm smile and excellent selection and presentation of appetizers. Attendees appreciated Dr. Bliss' wide-ranging knowledge of maritime history and his experience as a captain, as well as his respectful and dignified treatment of those who lost their lives, and their surviving families. 
 
 
 # Gallery
@@ -136,7 +136,7 @@ carousel navigation
 
 [^2]: Coast Guard releases Final Action Memo regarding S.S. El Faro sinking and loss of 33 crewmembers https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/CG-5PC/CG-CVC/MIR/Readings/Coast-Guard-releases-Final-Action-Memo-regarding-S-S-El-Faro-sinking.pdf?ver=2020-06-30-202709-790
 
-[^3]: El Faro Memorial in jacksonville, Florida https://www.jacksonville.gov/departments/parks-and-recreation/recreation-and-community-programming/parks/dames-point-park
+[^3]: El Faro Memorial in Jacksonville, Florida https://www.jacksonville.gov/departments/parks-and-recreation/recreation-and-community-programming/parks/dames-point-park
 
 [^4]: American Maritime Officers El Faro 10th annual memorial service https://www.amo-union.org/amo-nation-observe-the-10-year-anniversary-of-ss-el-faro-sinking/
 
