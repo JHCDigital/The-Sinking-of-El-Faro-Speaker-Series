@@ -23,13 +23,9 @@ Ten years have passed since October 1, 2015, still the memory of that day is dee
 
 These names are recognized at the memorials placed in Dames Point Park, Jacksonville, Florida and STAR Center in Dania Beach, Florida for the El Faro crew members. The Jacksonville location features the "El Faro memorial" which centers a bronze lighthouse statue; a reference to the El Faro's name origin meaning "lighthouse". As well as 33 individual markers with a photo and nameplate for each of the lost crew mamebers. The Dames Point Park stands underneath the Dames Point Bridge, which faces the waters that the ship departed from, along the St. Johns River.[^3] The other memorial is in the heart of the STAR Center and displays the El Faro monument. The structure was unvieled September 29, 2018 and stands in a butterfly garden on the American Maritime Officers Plans campus. It was the focus of the 10 year anniversary memorial service AMO unions and stakeholders attend in remeberance of the El Faro on October 1, 2025.[^4]
 
-.ve-map center=26.040480,-81.63681,11 basemaps=OpenStreetMap left width=120%
-	- 26.040480,-80.144783 "STAR Center El Faro monument"
-		- 30.387689,10,-81.557915 "Jacksonville El Faro Memorial"
-
-
-26.040480,-80.144783 "STAR Center El Faro monument" 
-30.387689,10,-81.557915 "Jacksonville El Faro Memorial"
+.ve-map 27.664827,-81.51575,6 basemaps=OpenStreetMap left width=120%
+	- 26.05231,-80.14393 "STAR Center El Faro Monument" "Monument in Dania Beach, Florida"
+	- 30.348399,-81.522538 "El Faro Monument at the Dames Point Bridge"
 
 
 Several published works have acknowledge the crew and their bravery, as well as the incident itself. 
