@@ -7,13 +7,16 @@
 This Speaker Series was presented by The Jacksonville History Center's very own Dr. Alan J. Bliss. He has served as CEO of the Jacksonville History Center since January 2018. Prior to then he taught U.S. history at the University of North Florida in Jacksonville. His courses include urban history, maritime history, the Great Depression and the New Deal, Civil Rights, and proseminars on public history—all emphasizing Jacksonville. His research on modern Florida has won professional awards, and he has made presentations at numerous academic conferences nationwide. He consults widely on preservation and historic resources, and in 2015 he authored a fifty-year history of Jacksonville’s Haskell Company. Bliss’s memberships include the Jacksonville Chamber of Commerce Downtown Council and the Naval Order of the United States. He is a member of Riverside Presbyterian Church, where he serves on the Property Committee. From 2017-2019, Bliss served on the Board of Directors of Fonkoze, USA, Inc., a microfinance organization directed at assistance for Haiti’s rural ultra-poor. Before to returning to higher education, he worked in the real estate industry and as a commercial mariner. He is an experienced offshore sailor, and continues to enjoy boating on the St. Johns River and surrounding waters.
 
 # The S.S. El Faro
+.ve-media wc:El_Faro_Alternate%2C_Normal_and_Accident_Routes_Jacksonville_to_San_Juan_Figure_5_from_NTSB_Report.jpg right width=100%
+
 The [S.S. El Faro](Q21058951) was built in 1975 and served as a cargo vessel for forty years. It regularly sailed across the Atlantic Ocean. On September 29, 2015, the ship left Jacksonville, Florida’s harbor on what was expected to be a routine trip to San Juan, Puerto Rico. There was a hurricane brewing in the line of their path named Joaquin, but at that time it was only declared a tropical storm. It only took a few days for Joaquin to escalate to a category 4 hurricane. El Faro pressed on despite the increasing risks, tragically underestimating the storm’s strength and trajectory. With the force of the storm the waves and wind crashed into the vessel, causing structural and mechanical challenges to expose themselves. The lower levels of the ship began to flood due to an open scuttle. The flooding caused the cargo to shift around, making the ship lose stability and list. Not long after the ship lost propulsion. With the El Faro unable to maneuver the crew worked tirelessly to manage the flooding, maintain communications with the Coast Guard and right the ship. Desite the crew's efforts the El Faro was compromised and overwhelmed by the storm’s intensity. 
 
 The crew of the EL Faro displayed remarkable bravery and professionalism as they faced issues that few mariners ever encounter. The crew followed procedures, relayed information and did everything they could to save the ship and each other. Thanks to investigations of the [National Transportation Safety Board](Q1053145), the [U.S. Coast Guard](Q11224), and the [Woods Hole Oceanic Institution](Q1404053) the [Voyage Data Recorder](Q1971102) (VDR) was able to be recovered. The recordings captured the final 26 hours of the crew. At approximately 7:30 a.m. on October 1, Captain Michael Davidson reported that the ship had lost propulsion and was taking on water. By 10:00 a.m. all communication ceased. The El Faro and its crew were lost to the sea. A month later, on October 31, 2015, the wreckage was discovered near the Bahamas, approximately 15,000 feet below surface.
 
-.ve-media wc:El_Faro_Alternate%2C_Normal_and_Accident_Routes_Jacksonville_to_San_Juan_Figure_5_from_NTSB_Report.jpg left width=100%
 
 # Investigation
+.ve-media wc:Model_of_the_wreck_of_the_El_Faro_%2838972122842%29.jpg left width=100%
+
 The National Transportation Safety Board (NTSB) and the U.S. Coast Guard launched investigations after the loss of the El Faro and its crew. They were determined to find out what happened and how to prevent an occurrence like this in the future. The NTSB recommended safety enhancements while the U.S. Coast Guard assigned blame and recommended operational improvements. Both investigations led to identifying the contributing factors and command failures surrounding the loss. The NTSB came out with several safety recommendations and called for stricter regulations and oversight on older vessels.[^1] They directly addressed the U.S. Coast Guard, [Federal Communications Commission](Q128831), [The National Oceanic and Atmospheric Administration](Q214700), TOTE Services Inc., amongst others in order to thouroughly identify and redirect those entities to make the changes needed. The U.S. Coast Guard called for more attentive oversight by the Alternate Compliance Program (ACP) and recommended civil penalties against TOTE Maritime. In addition to that they offered several safety suggestions which included requiring the replacement of all open life boats, updated weather information system and enhanced search and rescue (SAR) capabilities.[^2] These recomendations aimed for implementation to prioritize the safety of future mariners and sustain a more attentive structure for maritime regulations.
 
 # Honoring the crew of the El Faro
@@ -37,7 +40,7 @@ Ten years have passed since October 1, 2015, still the memory of that day is dee
 	- Q462789
 	- Q3316289
 	- Q49233
-	- Q487988
+	- Q487988 
  
 * Louis Champa Jr. Daytona Beach, Florida
 * Roosevelt Clark, Jacksonville, Florida
@@ -73,29 +76,42 @@ Ten years have passed since October 1, 2015, still the memory of that day is dee
 * Mariette Wright, St. Augustine, Florida
 * Rafal Zdobych, Poland
 
-These names are recognized at the memorials placed in Dames Point Park, Jacksonville, Florida and STAR Center in Dania Beach, Florida for the El Faro crew members. The Jacksonville location features the "El Faro memorial" which centers a bronze lighthouse statue; a reference to the El Faro's name origin meaning "lighthouse". As well as 33 individual markers with a photo and nameplate for each of the lost crew mamebers. The Dames Point Park stands underneath the Dames Point Bridge, which faces the waters that the ship departed from, along the St. Johns River.[^3] The other memorial is in the heart of the STAR Center and displays the El Faro monument. The structure was unvieled September 29, 2018 and stands in a butterfly garden on the American Maritime Officers Plans campus. It was the focus of the 10 year anniversary memorial service AMO unions and stakeholders attend in remeberance of the El Faro on October 1, 2025.[^4]
+## Memorials and Monuments
 
 .ve-map 27.664827,-81.51575,6 basemaps=OpenStreetMap left width=120%
 	- 26.05231,-80.14393 "STAR Center El Faro Monument" "Monument in Dania Beach, Florida"
 	- 30.348399,-81.522538 "El Faro Monument at the Dames Point Bridge"
 
+These names are recognized at the memorials placed in Dames Point Park, Jacksonville, Florida and STAR Center in Dania Beach, Florida for the El Faro crew members. The Jacksonville location features the "El Faro memorial" which centers a bronze lighthouse statue; a reference to the El Faro's name origin meaning "lighthouse". As well as 33 individual markers with a photo and nameplate for each of the lost crew mamebers. The Dames Point Park stands underneath the Dames Point Bridge, which faces the waters that the ship departed from, along the St. Johns River.[^3] The other memorial is in the heart of the STAR Center and displays the El Faro monument. The structure was unvieled September 29, 2018 and stands in a butterfly garden on the American Maritime Officers Plans campus. It was the focus of the 10 year anniversary memorial service AMO unions and stakeholders attend in remeberance of the El Faro on October 1, 2025.[^4]
 
+##
+##
 Several published works have acknowledge the crew and their bravery, as well as the incident itself. 
 
-.ve-media gh:JHCDigital/The-Sinking-of-El-Faro-Speaker-Series/Screenshot%202025-11-03%20131614.png width=60% caption="Books covering the El Faro"
+.ve-media gh:JHCDigital/The-Sinking-of-El-Faro-Speaker-Series/Screenshot%202025-11-03%20131614.png right width=60% caption="Books covering the El Faro"
+
+[*Into the Storm: Two Ships, A Deadly Hurricane, and an Epic Battle for Survial* by Tristram Korten](https://www.penguinrandomhouse.com/books/563463/into-the-storm-by-tristram-korten)
+
+[*Run the Storm: A Savage Hurricane, A Brave Crew, and the Wreck of the SS El Faro* by George Michelson Foy](https://www.simonandschuster.com/books/Run-the-Storm/George-Michelsen-Foy/9781501184901)
+
+[*Into the Raging Sea: Thirty-Three Mariners, One Megastorm, and the Sinking of the El Faro* by Rachel Slade](https://www.rachelslade.net/into-the-raging-sea)
+
+[*Captains of Thor: What Really Caused the Loss of the El Faro in Hurricane Joaquin* by Robert R. Frump](https://www.maritime-executive.com/article/journalist-publishes-el-faro-book)
+
+
 
 
 # JHC Exhibit
 ## Curated by Research Archivist Shawn Stermer
 Jacksonville has extensive ties to the maritime industry and that certainly reflects through the JHC archival collection. This physical exhibit focused on the history of those ties and how naval activity has shaped the city's identity as a whole. There were plenty of artifacts to look at as the exhibit featured items like maps, blueprints, model ships, pins, coins, cuffliks, books and photographs. The two model ships were of the Liberty Ship Ponce De Leon and the USS Constitution ship, both structures impressive in their own right. The maritime photographs were arranged in chronological order, ranging from 19th century to the middle of the 20th century. The oldest being a photograph of the Merril-Stephens Engineering Company Building, 1903 and the most recent depicted a captured Nazi U-Boat visiting Jacksonville in 1944. This display was wonderfully diverse and captured the rich history of Jacksonville's maritime involvement. 
 
-.ve-media gh:JHCDigital/The-Sinking-of-El-Faro-Speaker-Series/archives%20exhibit_5.jpeg right width=70% caption="Ship blue prints and naval artifacts."
-
 .ve-media gh:JHCDigital/The-Sinking-of-El-Faro-Speaker-Series/archives%20exhibit_2.jpeg left width=70% caption="Full table exhibit."
 
-.ve-media gh:JHCDigital/The-Sinking-of-El-Faro-Speaker-Series/archives_exhibit_map.jpeg right width=70% caption="Model of the Liberty Ship Ponce De Leon."
+.ve-media gh:JHCDigital/The-Sinking-of-El-Faro-Speaker-Series/archives%20exhibit_5.jpeg right width=70% caption="Ship blue prints and naval artifacts."
 
-.ve-media gh:JHCDigital/The-Sinking-of-El-Faro-Speaker-Series/archives%20exhibit_3.jpeg left width=70% caption="Model of the U.S.S. Constiution ship."
+.ve-media gh:JHCDigital/The-Sinking-of-El-Faro-Speaker-Series/archives_exhibit_map.jpeg left width=70% caption="Model of the Liberty Ship Ponce De Leon."
+
+.ve-media gh:JHCDigital/The-Sinking-of-El-Faro-Speaker-Series/archives%20exhibit_3.jpeg right width=70% caption="Model of the U.S.S. Constiution ship."
 
 # Event Reception
 The Jacksonville History Center was honored to host a 10th anniversary event of the El Faro. The event was attended by almost 100 people. Shawn Stermer, our Research Archivist, curated a twenty-four foot display of our collections focusing on the development of Jacksonville's maritime history. The exhibit was engaging and many visitors returned throughout the reception and after the presentation to learn more. Nancy Gandy, our Merrill House Coordinator, made everyone feel welcome with her warm smile and excellent selection and presentation of appetizers. Attendees appreicated Dr. Bliss' wide-ranging knowledge of maritime history and his experience as a captain, as well as his respectful and dignified treatment of those who lost their lives, and their surviving families. 
