@@ -1,7 +1,7 @@
 .ve-header "Jacksonville History Center Speaker Series: The 10th Anniversary of the Sinking of the S.S. El Faro" gh:JHCDigital/The-Sinking-of-El-Faro-Speaker-Series/Screenshot%202025-10-09%20134246.png width=80% full sticky
 
 <p align="center">
-  <img src="gh:JHCDigital/The-Sinking-of-El-Faro-Speaker-Series/Screenshot%202025-10-09%20134246.png" alt=" " width="40%">
+  <img width="676" height="385" alt="Image" src="https://github.com/user-attachments/assets/a2006c42-dc0e-4d52-94bb-577e7e87ee92" />
 </p>
 <h1 align="center">Jacksonville History Center Speaker Series: The 10th Anniversary of the Sinking of the S.S. El Faro</h1>
 
