@@ -4,8 +4,6 @@
 <h1 align="center">Jacksonville History Center Speaker Series: The 10th Anniversary of the Sinking of the S.S. El Faro</h1>
 
 # Introducing the Speaker
-<p align="left"> <img width="255" height="330" alt="Image" src="https://github.com/user-attachments/assets/b17f85da-5f87-4bc7-8f44-b641123901fd"> </p>
-<p align="right">
 This Speaker Series was presented by The Jacksonville History Center Ceo Dr. Alan J. Bliss. He has served as CEO of the organization since January 2018. Prior to then he taught U.S. history at the University of North Florida in Jacksonville. His courses include urban history, maritime history, the Great Depression and the New Deal, Civil Rights, and proseminars on public history—all emphasizing Jacksonville. His research on modern Florida has won professional awards, and he has made presentations at numerous academic conferences nationwide. He consults widely on preservation and historic resources, and in 2015 he authored a 50-year history of Jacksonville’s Haskell Company. Bliss’s memberships include the Jacksonville Chamber of Commerce Downtown Council and the Naval Order of the United States. Bliss also worked in the real estate industry and as a commercial mariner. He is an experienced offshore sailor and enjoys boating on the St. Johns River and surrounding waters.
 </p>
 
