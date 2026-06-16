@@ -1,5 +1,10 @@
 .ve-header "Jacksonville History Center Speaker Series: The 10th Anniversary of the Sinking of the S.S. El Faro" gh:JHCDigital/The-Sinking-of-El-Faro-Speaker-Series/Screenshot%202025-10-09%20134246.png width=80% full sticky
 
+<p align="center">
+  <img src="gh:JHCDigital/The-Sinking-of-El-Faro-Speaker-Series/Screenshot%202025-10-09%20134246.png" alt=" " width="40%">
+</p>
+<h1 align="center">Jacksonville History Center Speaker Series: The 10th Anniversary of the Sinking of the S.S. El Faro</h1>
+
 # Introducing the Speaker
 
 .ve-media gh:JHCDigital/The-Sinking-of-El-Faro-Speaker-Series/AJBliss%20headshot.jpeg left width=80% caption="Dr. Bliss."
