@@ -8,7 +8,7 @@ This Speaker Series was presented by The Jacksonville History Center Ceo Dr. Ala
 </p>
 
 # The S.S. El Faro
-<img width="642" height="562" alt="Image" src="https://github.com/user-attachments/assets/a8530c2b-c17f-4158-a97e-4e53e1ecd8be" />
+<img width="542" height="462" alt="Image" src="https://github.com/user-attachments/assets/a8530c2b-c17f-4158-a97e-4e53e1ecd8be" />
 
 
 The [S.S. El Faro](Q21058951) was built in 1975 and served as a cargo vessel for 40 years. It regularly sailed across the Atlantic Ocean. On September 29, 2015, the ship left Jacksonville, Florida’s harbor on what was expected to be a routine trip to San Juan, Puerto Rico. There was a hurricane brewing in the line of its path, but at that time Joaquin was only declared a tropical storm before escalating to a Category 4 hurricane. El Faro pressed on despite the increasing risks, tragically underestimating the storm’s strength and trajectory. With the force of the storm the waves and wind crashed into the vessel, causing structural and mechanical challenges to expose themselves. The lower levels of the ship began to flood due to an open scuttle. The flooding caused the cargo to shift around, making the ship lose stability and to list. Not long after, the ship lost propulsion. With the El Faro unable to maneuver, the crew worked tirelessly to manage the flooding, maintain communications with the Coast Guard and right the ship. Despite the crew's efforts, the El Faro was compromised and overwhelmed by the storm’s intensity. 
